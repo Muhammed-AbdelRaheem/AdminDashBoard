@@ -1,2 +1,2 @@
-Email:Adimn@Gmail.com  
+Email:Admin@Gmail.com  
 Password : Admin@123
